@@ -1,0 +1,19 @@
+#border{
+    margin: 15px;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid rgb(12, 12, 14);
+    border-radius: 10%;
+    box-sizing: border-box;
+    background-color: transparent;
+    color: rgb(10, 10, 12);
+}
+#new{
+    margin-left: 20px;
+}
+#new:hover{
+    background-color: rgb(87, 102, 238);
+    border-radius: 20px;
+    
+}
